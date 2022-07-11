@@ -10,5 +10,6 @@ lo que platzi representa para mi:
 * Hasta poder utilizarlo en equipo de trabajo de forma profesional o por lo menos las bases para poder hacerlo.
 * Creado por el increible platzi TEAM
 * incluyte ejemplos en w l y mac
+* disponible paera edades
 
 Por ultimo, platzi me ha enseñado una de las más valiosas lecciones que tendré de ahora en adelante: "desarrolla una pasión por aprender, si lo haces nunca dejarás de crecer".
