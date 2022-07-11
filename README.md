@@ -8,5 +8,6 @@ lo que platzi representa para mi:
 ##Y si, en este curso vemos de todo 😂
 * Desde ni siquiera saber que ñola es GIthub
 * Hasta poder utilizarlo en equipo de trabajo de forma profesional o por lo menos las bases para poder hacerlo.
+* Creado por el increible platzi TEAM
 
 Por ultimo, platzi me ha enseñado una de las más valiosas lecciones que tendré de ahora en adelante: "desarrolla una pasión por aprender, si lo haces nunca dejarás de crecer".
